@@ -1,0 +1,10 @@
+git init
+git remote add origin <link>
+git remote -v
+
+git status // file status
+ u - untracked
+ git add . // adds all untracked files
+ git add <file>
+ git branch 
+ git push origin master // to push
